@@ -1,14 +1,14 @@
-Короткое описание (Summary)
-Проект (Project)	
-Компонент приложения (Component)	
-Номер версии (Version)	
-Серьезность (Severity)	
-Приоритет (Priority)	
-Статус (Status)	
-Автор (Author)	
-Исполнитель	
+Короткое описание (Summary).
+Проект (Project).	
+Компонент приложения (Component.)	
+Номер версии (Version).	
+Серьезность (Severity).	
+Приоритет (Priority).	
+Статус (Status).	
+Автор (Author).	
+Исполнитель.	
 ОС / Сервис Пак и т.д. / Браузера + версия / ...	
-Шаги воспроизведения (Steps to Reproduce)	
-Фактический Результат (Result)	
-Ожидаемый результат (Expected Result)	
-Прикрепленный файл (Attachment)
+Шаги воспроизведения (Steps to Reproduce).	
+Фактический Результат (Result).	
+Ожидаемый результат (Expected Result).	
+Прикрепленный файл (Attachment).
